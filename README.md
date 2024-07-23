@@ -9,22 +9,28 @@ I am trying to break out of this warehouse simulation I am stuck in and get a be
 - 📫 How to reach me: find my neural link address...
   
 ```javascript
-def calculate_bills_and_paycheck():
+function calculateBillsAndPaycheck() {
     // Prompt the user for the paycheck amount
-    try:
-        paycheck = float(input("Enter the paycheck amount: $"))
-        
-        // Calculate the monthly bills as $100 more than each paycheck
-        monthly_bills = paycheck + 100
-        
-        // Display the slowly increasing snowball of debt
-        print(f"Paycheck: ${paycheck:.2f}")
-        print(f"Bill Payment: ${monthly_bills:.2f}")
-        print(f"Debt accumulated every paycheck: ${monthly_bills - paycheck:.2f}")
-        
-    except ValueError:
-        print("Invalid input. Please enter a numeric value for the paycheck amount.")
+    let paycheck = prompt("Enter the paycheck amount: $");
+    
+    // Ensure the input is a valid number
+    paycheck = parseFloat(paycheck);
+    
+    if (isNaN(paycheck)) {
+        console.log("Invalid input. Please enter a numeric value for the paycheck amount.");
+        return;
+    }
+    
+    // Calculate the monthly bills as $100 more than each paycheck to simulate the actual debt accumlated in this simulated life
+    let monthlyBills = paycheck + 100;
+    
+    // Display the slowly increasing snowball of debt
+    console.log(`Paycheck: $${paycheck.toFixed(2)}`);
+    console.log(`Bill Payment: $${monthlyBills.toFixed(2)}`);
+    console.log(`Debt accumulated every paycheck: $${(monthlyBills - paycheck).toFixed(2)}`);
+}
 
 // Call the function to see how my life is going into debt
-calculate_bills_and_paycheck()
+calculateBillsAndPaycheck();
+
 ```
