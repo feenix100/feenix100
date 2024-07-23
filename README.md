@@ -8,7 +8,7 @@ I am trying to break out of this warehouse simulation I am stuck in and get a be
 
 - 📫 How to reach me: find my neural link address...
   
-'''javascript
+```javascript
 def calculate_bills_and_paycheck():
     # Prompt the user for the paycheck amount
     try:
@@ -27,4 +27,4 @@ def calculate_bills_and_paycheck():
 
 # Call the function to run the program
 calculate_bills_and_paycheck()
-'''
+```
