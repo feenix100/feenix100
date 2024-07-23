@@ -10,14 +10,14 @@ I am trying to break out of this warehouse simulation I am stuck in and get a be
   
 ```javascript
 def calculate_bills_and_paycheck():
-    # Prompt the user for the paycheck amount
+    // Prompt the user for the paycheck amount
     try:
         paycheck = float(input("Enter the paycheck amount: $"))
         
-        # Calculate the monthly bills as $100 more than each paycheck
+        // Calculate the monthly bills as $100 more than each paycheck
         monthly_bills = paycheck + 100
         
-        # Display the results
+        // Display the slowly increasing snowball of debt
         print(f"Paycheck: ${paycheck:.2f}")
         print(f"Bill Payment: ${monthly_bills:.2f}")
         print(f"Debt accumulated every paycheck: ${monthly_bills - paycheck:.2f}")
@@ -25,6 +25,6 @@ def calculate_bills_and_paycheck():
     except ValueError:
         print("Invalid input. Please enter a numeric value for the paycheck amount.")
 
-# Call the function to run the program
+// Call the function to see how my life is going into debt
 calculate_bills_and_paycheck()
 ```
