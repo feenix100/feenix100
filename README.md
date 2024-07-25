@@ -1,12 +1,15 @@
-I am currently a student, working towards a degree in networking and systems administration.
-I am trying to break out of this warehouse simulation I am stuck in and get a better job in the tech industry. I could never afford to buy a tesla at my current job.
+# About Me
 
+I’m currently a student pursuing a degree in Networking and Systems Administration. My goal is to transition from my current role in a warehouse simulation to a more fulfilling job in the tech industry. Currently, my job doesn’t allow me to afford luxuries like a Tesla, but I’m motivated to change that.
 
-- 👀 I’m interested in python, javascript, artificial intelligence
+### Interests
+- 👀 **Languages & Technologies**: Python, JavaScript
+- 💞️ **Collaboration Goals**: Exploring connections between the human brain and digital computational devices
 
-- 💞️ I’m looking to collaborate on connecting the human brain to digital computational devices.
+### How to Reach Me
+- 📫 Find my neural link address... 
 
-- 📫 How to reach me: find my neural link address...
+Feel free to connect if you share similar interests or if you're working on groundbreaking projects!
   
 ```javascript
 function calculateBillsAndPaycheck() {
