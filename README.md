@@ -1,13 +1,13 @@
 # About Me
 
-I’m currently a student pursuing a degree in Networking and Systems Administration. My goal is to transition from my current role in a warehouse simulation to a more fulfilling job in the tech industry. Currently, my job doesn’t allow me to afford luxuries like a Tesla, but I’m motivated to change that.
+I’m currently a student pursuing an undergraduate degree in Computer Science. My goal is to transition from my current role in a warehouse simulation to a more fulfilling job in the tech industry. 
 
 ### Interests
-- 👀 **Languages & Technologies**: Python, JavaScript
-- 💞️ **Collaboration Goals**: Exploring connections between the human brain and digital computational devices
+- 👀 **Languages & Technologies**: Python, JavaScript, Java
+- 💞️ **Collaboration Goals**: Exploring connections between the human brain and digital computational devices. I want to develop code for brain embedded devices. How can we connect computers to the human brain?
 
 ### How to Reach Me
-- 📫 Find my neural link address... 
+- 📫 Read my thoughts and find my neural link address... 
 
 Feel free to connect if you share similar interests or if you're working on groundbreaking projects!
   
