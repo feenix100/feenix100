@@ -16,7 +16,7 @@ I have been building random apps. My skills could be put to better use, if I cou
 <img align="left" alt="CSS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:15px;" src="https://skillicons.dev/icons?i=aws,arduino,cpp,ai,py,raspberrypi,rust&perline=7" />
+<img align="left" alt="skillIcons" src="https://skillicons.dev/icons?i=aws,arduino,cpp,ai,py,raspberrypi,rust&perline=7" />
 <br />
 
 
