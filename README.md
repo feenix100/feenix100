@@ -13,17 +13,17 @@ I have been building random apps. My skills could be put to better use, if I cou
 <img align="left" alt="HTML" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="skillIcons" src="https://skillicons.dev/icons?i=aws,arduino,cpp,ai,py,raspberrypi,rust&perline=7" />
+<img alt="skillIcons" src="https://skillicons.dev/icons?i=aws,arduino,cpp,ai,py,raspberrypi,rust&perline=7" />
 
 <br />
 
-<div align="left">
+
 ### 📫 How to Reach Me
 
 - X  https://x.com/az_rain_dust
 - Youtube https://www.youtube.com/@RainDust_az
 <br />
-</div>
+
 
 <!--
 <details>
