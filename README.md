@@ -1,7 +1,5 @@
 # About Me
 
-I’m a Computer Science Student. My goal is to escape from the warehouse simulation loop I am stuck in. Then find a new job in the tech industry simulation. 
-
 I am an engineer, yet I don't have any problems to solve. I have the freedom to build but I’m still searching for a purpose that gives direction to that freedom.
 
 I have been building random apps. My skills could be put to better use, if I could find the right opportunity.
@@ -24,6 +22,11 @@ I have been building random apps. My skills could be put to better use, if I cou
 - Youtube https://www.youtube.com/@RainDust_az
 <br />
 
+<!--
+<details>
+ <summary><h3>👨‍💻 Justin's Coding Journey</h3></summary>
+   I’m a Computer Science Student. My goal is to escape from the warehouse simulation loop I am stuck in. Then find a new job in the tech industry simulation. I decided to begin a youtube channel to connect with other developers. I have been building in stealth mode for years, I need to get my skills in public view. Watching myself work will give me an insight into how i can improve my processes to become a better tech developer. I generally write random apps, but I enjoy when the software interacts with hardware in the real world. I like writing code that has a visible effect on the physical world...
+-->
 
 
 Feel free to send me a message!
