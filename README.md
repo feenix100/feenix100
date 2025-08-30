@@ -24,9 +24,6 @@ I have been building random apps. My skills could be put to better use, if I cou
 - Youtube https://www.youtube.com/@RainDust_az
 <br />
 
-<p align="left">
-      <a href="https://www.youtube.com/@RainDust_az">
-         <img alt="youtube" title="YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers"/></a> 
-</p>
+
 
 Feel free to send me a message!
