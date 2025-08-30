@@ -1,4 +1,6 @@
-# About Me
+# 🎮 Justin S
+
+**`Tech Developer`**
 
 I am an engineer, yet I don't have any problems to solve. I have the freedom to build but I’m still searching for a purpose that gives direction to that freedom.
 
