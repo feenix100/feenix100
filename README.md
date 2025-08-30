@@ -15,7 +15,6 @@ I have been building random apps. My skills could be put to better use, if I cou
 <img align="left" alt="JavaScript" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="skillIcons" src="https://skillicons.dev/icons?i=aws,arduino,cpp,ai,py,raspberrypi,rust&perline=7" />
 </p>
-<br />
 
 
 ### 📫 How to Reach Me
