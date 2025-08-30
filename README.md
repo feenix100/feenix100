@@ -6,7 +6,7 @@ I am an engineer, yet I don't have any problems to solve. I have the freedom to 
 
 I have been building random apps. My skills could be put to better use, if I could find the right opportunity.
 
-### 🧰 Languages and Tools
+### ☎️ Languages and Tools
 
 
 <img align="left" alt="Python" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -19,9 +19,9 @@ I have been building random apps. My skills could be put to better use, if I cou
 <br />
 
 
-### How to Reach Me
+### 📫 How to Reach Me
 - X  https://x.com/az_rain_dust
 - Youtube https://www.youtube.com/@RainDust_az
-- <br />
+<br />
 
 Feel free to send me a message!
