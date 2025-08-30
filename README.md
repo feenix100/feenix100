@@ -19,15 +19,15 @@ I have been building random apps. My skills could be put to better use, if I cou
 
 ### 📫 How to Reach Me
 
-- X  https://x.com/az_rain_dust
-- Youtube https://www.youtube.com/@RainDust_az
+- X: https://x.com/az_rain_dust
+- Youtube: https://www.youtube.com/@RainDust_az
 <br />
 
 
 <!--
 <details>
- <summary><h3>👨‍💻 Justin's Coding Journey</h3></summary>
-   I have been using computers for 25+ years. There were no companies with entry level tech jobs in my area, so I have been outside looking in. Working in warehouses just to pay the bills by day, coding for free by night, thinking of a better future the whole time. Recently, I became a Computer Science Student. My goal is to escape from the warehouse simulation loop I am stuck in. Then find a new job in the tech industry simulation. I decided to begin a youtube channel to connect with other developers. I have been building in stealth mode for years, I need to get my skills in public view. Watching myself work will give me an insight into how i can improve my processes to become a better tech developer. I generally write random apps, but I enjoy when the software interacts with hardware in the real world. I like writing code that has a visible effect on the physical world...
+ <summary><h3>🚀 Justin's Coding Journey</h3></summary>
+   I have been using computers for 25+ years. There were no companies with entry level tech jobs in my area when i was young, so I have been outside looking in. Working in warehouses just to pay the bills by day, coding for free by night, thinking of a better future the whole time. Recently, I became a Computer Science Student. My goal is to escape from the warehouse simulation loop I am stuck in. Then find a new job in the tech industry simulation. I decided to begin a youtube channel to connect with other developers. I have been building in stealth mode for years, I need to get my skills in public view. Watching myself work will give me an insight into how i can improve my processes to become a better tech developer. I generally write random apps, but I enjoy when the software interacts with hardware in the real world. I like writing code that has a visible effect on the physical world...
 -->
 
 
