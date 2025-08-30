@@ -17,7 +17,7 @@ I have been building random apps. My skills could be put to better use, if I cou
 
 <br />
 
-<div>
+<div align="left">
 ### 📫 How to Reach Me
 
 - X  https://x.com/az_rain_dust
