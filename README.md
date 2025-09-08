@@ -20,7 +20,7 @@ I have been building random apps. My skills could be put to better use, if I cou
 ### 📫 How to Reach Me
 
 - X: https://x.com/az_rain_dust
-- Youtube: https://www.youtube.com/@RainDust_az
+- Youtube: https://www.youtube.com/@RainDustCode
 <br />
 
 
