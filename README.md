@@ -2,17 +2,14 @@
 
 **`Tech Developer`**
 
-I am an engineer, yet I don't have any problems to solve. I have the freedom to build but I’m still searching for a purpose that gives direction to that freedom.
+I am an engineer, yet I do not have any problems to solve. I have the freedom to build but I am still searching for a purpose that gives direction to that freedom.
 
-I have been building random apps. My skills could be put to better use, if I could find the right opportunity.
+
 
 ### ☎️ Languages and Tools
 
 <img alt="skillIcons" src="https://skillicons.dev/icons?i=py,ai,aws,arduino,cpp,raspberrypi,rust&perline=7" />
 <img align="left" alt="Java" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 <br />
