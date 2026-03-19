@@ -1,4 +1,4 @@
-# 🎮 Justin S
+# 🎮
 
 **`Tech Developer`**
 
