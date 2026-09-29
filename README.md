@@ -1,8 +1,4 @@
-# 🎮
-
-**`Tech Developer`**
-
-I am an engineer, yet I do not have any problems to solve. I have the freedom to build but I am still searching for a purpose that gives direction to that freedom.
+I have the freedom to build, yet I do not have any problems to solve.  
 
 
 
@@ -16,8 +12,8 @@ I am an engineer, yet I do not have any problems to solve. I have the freedom to
 
 ### 📫 How to Reach Me
 
-- X: https://x.com/az_rain_dust
-- Youtube: https://www.youtube.com/@RainDustCode
+
+- [Youtube: https://www.youtube.com/@RainDustTech](https://www.youtube.com/@RainDustTech)
 <br />
 
 
